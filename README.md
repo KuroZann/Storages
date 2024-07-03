@@ -1,5 +1,0 @@
-##
-
-Storages For Kuro - Network
-
-##
